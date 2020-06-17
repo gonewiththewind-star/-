@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: sy1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\子涵\AppData\Local\Temp\RSP26F8.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/sy1.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\子涵\Desktop\实验参考程序\参考程序\实验一程序\sy1\sy1Dlg.cpp"
+]
+Creating command line "cl.exe @"C:\Users\子涵\AppData\Local\Temp\RSP26F8.tmp"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/sy1.pdb" /debug /machine:I386 /out:"Debug/sy1.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\sy1.obj" ".\Debug\sy1Dlg.obj" ".\Debug\sy1.res" "
+<h3>Output Window</h3>
+Compiling...
+sy1Dlg.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/sy1.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\sy1.sbr" ".\Debug\sy1Dlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+sy1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
